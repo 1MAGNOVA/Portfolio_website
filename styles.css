@@ -1,5 +1,9 @@
 body {
     background-color: gold;
   text-align: center;
-  background-image: bg;
+ 
+}
+
+section{
+  background-image: background;
 }
